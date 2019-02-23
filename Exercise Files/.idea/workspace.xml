@@ -10,18 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="InitialBootAppApplication.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter1/01_02/01_02_End/initial-boot-app/src/main/java/com/frankmoley/boot/essentials/initialbootapp/InitialBootAppApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
